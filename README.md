@@ -1,5 +1,4 @@
-# ttcmod
-Mod TTC pentru RPG1.
+# Mod TTC pentru RPG1.
 
 Necesita CLEO si SAMPFUNCS - ultima versiune.
 
